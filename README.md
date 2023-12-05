@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boluamoo
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning ReactJs
 - 📫 You can reach me via;
 - email: boluamoo58@gmail.com 
 - whatsapp: +234 8163362775
